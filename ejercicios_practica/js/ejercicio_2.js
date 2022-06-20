@@ -11,10 +11,10 @@
 // 2. Realice las modificaciones en el código para que la operación
 //    entregue como resultado 10:
 
-/* ELIMINE ESTE COMENTARIO
-let numera dor = 100;
-let denominador10;
-cociente = numerador / denominador;
 
-console.log(cociente;
-*/
+let numerador = 20;
+let denominador=10;
+let cociente = numerador / denominador;
+
+console.log(cociente);
+

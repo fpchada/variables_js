@@ -12,10 +12,10 @@
 //    proponga una alternativa para que se imprima 1 en consola, 
 //    manteniendo las operaciones de división.
 
-/* ELIMINE ESTE COMENTARIO
+
 let numerador = 25;
-let denominador = 25 - numerador;
+let denominador = (30 - numerador); // dio infinito y lo cambie para saber si el calculo estaba ok.
 let resultado = numerador/denominador;
 
-console.log(resultado/resultado);
-*/
+console.log(resultado);
+

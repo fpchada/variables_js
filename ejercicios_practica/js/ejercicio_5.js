@@ -15,6 +15,14 @@
 //    me trae mas suerte que el numero 
 //    13
 
-/* ELIMINE ESTE COMENTARIO
+
 let textoNumero = "El numero";
-*/
+let numero1= (7);
+let numero2= (13);
+let frase = "me trae mas suerte que el ";
+
+let fraseCompleta= (textoNumero +" " +numero1 +" "+ frase + numero2);
+
+
+
+console.log(fraseCompleta)
